@@ -1,0 +1,2 @@
+# walkgis-template
+walkgis-template
