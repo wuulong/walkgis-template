@@ -59,7 +59,7 @@
 *   **`sql/`**: (進階) 資料庫架構定義檔。
 
 ## 🔗 相關資源
-*   [WalkGIS App](https://wuulong.github.io/wuulong-notes-blog/walkgis_app/)
+*   [WalkGIS App](https://walkgis-544663807110.us-west1.run.app/)
 *   [WalkGIS 官方部落格](https://wuulong.github.io/wuulong-notes-blog/)
 
 ---
